@@ -1,6 +1,7 @@
-#include  <stdio.h>
+#include <stdio.h>
+#include <unistd.h>
 /**
- * main - prints "and that piece of art is useful...", 
+ * main - prints 'and that piece of art is useful...', 
  * 		followed by a new line, to standard error.
  *
  * Return: Always 1
