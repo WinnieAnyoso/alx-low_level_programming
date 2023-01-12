@@ -1,8 +1,6 @@
-
-
 /*
- * File: 100-strtow.c
- * Auth: Winnie 
+ * File: 101-strtow.c
+ * Auth: Winnie
  */
 
 #include "main.h"
