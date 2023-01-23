@@ -1,6 +1,5 @@
-#ifndef CALC_H
-#define CALC_H
-
+#ifndef OP_FUNCTIONS_
+#define OP_FUNCTIONS_
 /*
  * File: 3-calc.h
  * Auth: Winnie
